@@ -12,4 +12,3 @@
 ![add](./addDetailView.png?raw=true "addDetailView")
 ![delete](./deleteView.png?raw=true "deleteView")
 
-# Memories-app
