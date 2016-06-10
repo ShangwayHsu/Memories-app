@@ -88,6 +88,9 @@ class ViewController: UIViewController, CLLocationManagerDelegate {
                 
                 //reveal the bottombar
                 self.bottomBar.hidden = false
+                
+                NSUserDefaults.standardUserDefaults().setObject(places, forKey: "places")
+
   
             })
         }
